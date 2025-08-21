@@ -1,0 +1,33 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+ul#mainmenu {
+	width: 300px;
+	list-style-type: none;
+}
+
+#mainmenu ul li {
+	height: 32px;
+	width: 300px;
+	list-style-type: none;
+}
+#mainmenu ul li a {
+	background-image: url(../Images/sidemenu.jpg);
+	background-repeat: no-repeat;
+	height: 32px;
+	width: 300px;
+	font-family: Verdana, Geneva, sans-serif;
+	font-weight: bold;
+	display: block;
+	color: #0F0;
+	padding-left: 40px;
+	line-height: 32px;
+	text-decoration: none;
+}
+#mainmenu ul li a:hover {
+	background-image: url(../Images/sidemenu.jpg);
+	background-position: 0px -32px;
+	display: block;
+	color: #FFF;
+}
