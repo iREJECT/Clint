@@ -1,0 +1,190 @@
+<webalbum version="1.8.2">
+  <title>School Activities</title>
+  <description>
+    <line>Be a Consolatrician</line>
+  </description>
+  <settings>
+    <photosize width="640" height="480">medium</photosize>
+    <thumbsize width="100" height="75">medium</thumbsize>
+    <homeurl>http://cleantoy.cloudvent.net</homeurl>
+    <outputdirectory>D:\school activities\SchoolActivities\</outputdirectory>
+    <navigateinloop>True</navigateinloop>
+  </settings>
+  <layout>
+    <colourscheme>Ocean</colourscheme>
+    <pagecolor>12681984</pagecolor>
+    <textcolor>65280</textcolor>
+    <linkcolor>16711680</linkcolor>
+    <hotlinkcolor>8388736</hotlinkcolor>
+    <thumbnailrows>5</thumbnailrows>
+    <thumbnailcols>5</thumbnailcols>
+    <navigationbelowphoto>True</navigationbelowphoto>
+  </layout>
+  <photographs>
+    <photo>
+      <filename>C:\Users\user\Music\me.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\2014-09-10 19.46.32.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\2014-09-14 06.46.26.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\2014-09-14 07.45.41.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\2014-09-14 07.45.47.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\2014-09-14 07.46.00.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\2014-09-14 07.48.54.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\2014-09-14 07.52.29.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\2014-09-29 19.19.24.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\2014-09-29 19.20.02.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\2014-09-29 19.24.35.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\2014-09-29 19.24.51.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\2014-09-29 19.27.26.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\2014-09-29 19.33.45.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\2014-09-29 19.33.59.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\2014-09-29 20.01.53.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\2014-09-29 20.15.03.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\10365970_930821343601734_7543992280376122750_n.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\10419009_930821373601731_3543924612357509497_n.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\10534742_930820790268456_5744907564780613047_n.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\10556374_930822686934933_5986445907599451071_n.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\10561581_930821076935094_6506678098905974758_n.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\10610850_930821416935060_3979907077807181285_n.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\10616681_930822296934972_4524794181182008461_n.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\10626700_930822316934970_130849672256770172_n.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\10629580_930821673601701_659056943317656446_n.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\10632742_930821113601757_5438810521467727761_n.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\10675625_355721767922278_5242116844679756211_n.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\10686934_355722997922155_8316218275905130661_n.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\10696289_355721811255607_7560148896837615207_n.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\10696380_355722251255563_7073492288265049761_n.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\IMG_20141010_082232.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\IMG_20141010_082241.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\IMG_20141010_082304.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\IMG_20141010_082423.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\IMG_20141010_082454.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\IMG_20141010_082908.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\IMG_20141010_082930.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\IMG_20141010_082955.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\IMG_20141010_083027.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\IMG_20141010_083112.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\IMG_20141010_083133.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\IMG_20141010_083135.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\IMG_20141010_083137.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\IMG_20141010_083342.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\IMG_20141010_083441.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\IMG_20141010_083611.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\IMG_20141010_083644.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\IMG_20141010_083658.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\IMG_20141010_083801.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\IMG_20141010_083829.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\IMG_20141010_083839.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\IMG_20141010_083857.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\IMG_20141010_083915.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\user\Music\me.jpg</filename>
+    </photo>
+  </photographs>
+</webalbum>
