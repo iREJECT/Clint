@@ -14,20 +14,22 @@
     
 </head>
 <body>
-    <h1>Click anywhere ❤️</h1>
+    <body>
+
+<h1>Click me ❤️</h1>
+<button onclick="playMusic()">Open</button>
 
 <audio id="bgmusic" loop>
     <source src="img/Can't Help Falling in Love.mp3" type="audio/mpeg">
 </audio>
 
 <script>
-document.addEventListener("click", function() {
+function playMusic(){
     const music = document.getElementById("bgmusic");
     music.play();
-}, { once: true });
+}
 </script>
 
-    
     <section id="div11" class="parent2">
         <div class="heart" id="div11" onclick="toggleDiv1122()"></div>
     </section>
