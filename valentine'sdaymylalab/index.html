@@ -8,7 +8,7 @@
     <meta http-equiv='expires' content='0'> 
     <meta http-equiv='pragma' content='no-cache'>
     <link rel="icon" href="img/icon-tab.png">
-    <title>For You My Lalab ❤️❤️</title>
+    <title>For You My Lalab 1❤️❤️</title>
     <link rel="stylesheet" href="main.css">
     <script src="main.js"></script>
     
@@ -16,18 +16,17 @@
 <body>
     <body>
 
-<h1>Click me ❤️</h1>
-<button onclick="playMusic()">Open</button>
+<h1>Click anywhere ❤️</h1>
 
 <audio id="bgmusic" loop>
     <source src="img/Can't Help Falling in Love.mp3" type="audio/mpeg">
 </audio>
 
 <script>
-function playMusic(){
+document.addEventListener("click", function() {
     const music = document.getElementById("bgmusic");
     music.play();
-} , { once: true });
+}, { once: true });
 </script>
 
     <section id="div11" class="parent2">
